@@ -1,3 +1,3 @@
 # college
-college account 
+college account\n
 Author - Pathi Aman Pal
